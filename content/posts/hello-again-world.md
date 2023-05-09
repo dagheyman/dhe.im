@@ -1,7 +1,7 @@
 ---
 title: "Hello again, dear world"
 date: 2023-05-09T12:59:11+02:00
-draft: true
+draft: false
 ---
 
 ## 100 Days To Offload?
