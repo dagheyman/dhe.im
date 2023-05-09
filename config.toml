@@ -1,0 +1,5 @@
+baseURL = 'https://dhe.im/'
+languageCode = 'en-us'
+title = 'notes on sec & tech'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+background_color_class = "light-yellow"
