@@ -1,5 +1,26 @@
 baseURL = 'https://dhe.im/'
 languageCode = 'en-us'
 title = 'notes on sec & tech'
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-background_color_class = "light-yellow"
+theme = ["github.com/athul/archie"]
+
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+  mode="auto" # color-mode → light,dark,toggle or auto
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3

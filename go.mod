@@ -1,5 +1,5 @@
-module github.com/dagheyman/dhe.im
+module dagheyman/dhe.im
 
 go 1.19
 
-require github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20230203204610-a1a99cf12681 // indirect
+require github.com/athul/archie v0.0.0-20230408034951-d717302b0163 // indirect
