@@ -4,8 +4,8 @@ date: 2023-05-17
 draft: false
 ---
 
-When things go wrong, how long does it take you to be back on track? Is there a plan in place?
-This is what _business continuity planning_, _disaster recovery_ and, in some sense, even _incident response_ are all about. Let's learn a few abbreviations in this area. These are all part of the [Security+](https://dhe.im/posts/security-plus/) material (surprise!), but I think they represent interesting questions to ask as anyone responsible for the reliability or security of a production system.
+When things go wrong, how long does it take you to be back on track? Is there a plan in place
+This is what _business continuity planning_, _disaster recovery_ and, in some sense, even _incident response_ are all about. Let's learn a few abbreviations in this area. These are all part of the [Security+](/posts/security-plus/) material (surprise!), but I think they represent interesting questions to ask as anyone responsible for the reliability or security of a production system.
 
 | Abbreviation  | Description |
 | -------- | -------- |
