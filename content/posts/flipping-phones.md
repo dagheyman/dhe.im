@@ -12,7 +12,7 @@ My current smartphone is about to give up soon anyway, so I decided I will try a
 
 Instead of using a smartphone I will use:
 
-- A [Nokia 2720 Flip](https://en.wikipedia.org/wiki/Nokia_2720_Flip)
+- A [Nokia 2660 Flip](https://www.gsmarena.com/nokia_2660_flip-pictures-11668.php)
 - A iPad mini (with SIM card)
 
 The flip phone will function as my always-with-me-device, used for (semi)-urgent calls, emergencies and occacional text messages. I'll probably use it as an alarm clock as well, but we'll see how that plays out.
